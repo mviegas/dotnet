@@ -7,3 +7,6 @@
 [submodule "Options"]
 	path = Options
 	url = https://github.com/mviegas/dotnetcore-optionspattern
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/mviegas/dotnetcore-apigateway
