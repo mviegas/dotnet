@@ -4,3 +4,6 @@
 [submodule "RabbitMQ"]
 	path = RabbitMQ
 	url = https://github.com/mviegas/dotnet-rabbitmq.git
+[submodule "Options"]
+	path = Options
+	url = https://github.com/mviegas/dotnetcore-optionspattern
