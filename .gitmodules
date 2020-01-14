@@ -1,0 +1,3 @@
+[submodule "JWT"]
+	path = JWT
+	url = https://github.com/mviegas/dotnet-jwt.git
