@@ -13,3 +13,6 @@
 [submodule "DependencyInjection"]
 	path = DependencyInjection
 	url = https://github.com/mviegas/dotnetcore-dependencyinjection
+[submodule "SOLID"]
+	path = SOLID
+	url = https://github.com/mviegas/SOLID
