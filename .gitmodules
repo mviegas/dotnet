@@ -10,3 +10,6 @@
 [submodule "ApiGateway"]
 	path = ApiGateway
 	url = https://github.com/mviegas/dotnetcore-apigateway
+[submodule "DependencyInjection"]
+	path = DependencyInjection
+	url = https://github.com/mviegas/dotnetcore-dependencyinjection
